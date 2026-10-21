@@ -7,9 +7,9 @@
   printf ("nhap so nguyen 4");
   scanf("%d",&n);
   if (n%2==0) {
-  printf ("%d");
+  printf (le);
 } else{ 
-  printf ("%d");
+  printf ("chan");
   }
   return 0;
 }
