@@ -1,5 +1,6 @@
   #include <stdio.h>
-  int main() {
+  int main() 
+  {
   int n;
   printf ("nhap so nguyen n");
   scanf("%d",&n);
@@ -7,6 +8,6 @@
   printf ("%d");
 } else{ 
   printf ("%d");
-}
+  }
   return 0;
 }
