@@ -5,9 +5,9 @@ int main() {
   printf ("nhap so nguyen n");
   scanf("%d",&n);
   if (n%2==0) {
-  printf ("so chan");
+  printf ("CHAN");
 } else{ 
-  printf ("so le");
+  printf ("LE");
 }
   return 0;
 }
