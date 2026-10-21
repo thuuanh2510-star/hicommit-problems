@@ -1,6 +1,6 @@
   #include <stdio.h>
   int main() {
-  int n=2;
+  int n;
   printf ("nhap so nguyen n");
   scanf("%d",&n);
   if (n%2==0) {
