@@ -11,25 +11,3 @@ int main() {
 }
   return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  printf ("so le");
-  
-  return 0;
-}
