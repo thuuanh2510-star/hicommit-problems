@@ -3,8 +3,8 @@
 int main() {
   int n=4;
   printf ("nhap so nguyen n");
-  scanf("%d","n");
-  if (n%4==0) {
+  scanf("%d",&n);
+  if (n%2==0) {
   printf ("so chan");
 } else{ 
   printf ("so le");
