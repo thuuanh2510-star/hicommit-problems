@@ -2,8 +2,9 @@
 
 int main(void)
 {
-  scanf("%d,&")
-  if(">=9.0"){
+  int i=10;
+  scanf("%d,&n")
+  if(>=9.0){
     printf("xuat sac neu diem trung binh >=9.0\n");
   }else if("8.0<=diem trung binh <9.0"){
     printf("gioi neu 8.0<=diem trung binh <8.0\n");
