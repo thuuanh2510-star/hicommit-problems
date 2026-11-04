@@ -4,8 +4,8 @@ int main(void)
 {
   int i=10,s=7;
   scanf("%d,&n");
-   if(">=9.0"){
-    printf("xuat sac neu diem trung binh >=9.0\n");
+   if(">=9.0")// hoc luc{
+    printf(" >=9.0\n");
   }else if("8.0<=diem trung binh <9.0"){
     printf("gioi neu 8.0<=diem trung binh <8.0\n");
   }else if("7.0<=diem trung binh <8.0"){
