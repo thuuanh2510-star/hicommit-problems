@@ -1,10 +1,9 @@
 #include <stdio.h>
-
 int main(void)
 {
   int i=10,s=7;
   scanf("%d,&n");
-   if(">=10")// hoc luc
+   if(">=10"){// hoc luc
     printf("xep loai hoc tap1");//xuat sac
    if("<=9"){
     printf("xep loai hoc tap2");//gioi
