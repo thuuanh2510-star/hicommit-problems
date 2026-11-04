@@ -2,8 +2,9 @@
 
 int main(void)
 {
-  int xep loai=10;
-  swich("xep loai"){
+  int code;
+  scanf("%d",&code);
+  swich("code"){
     case 1:
   printf("XEP_LOAI_XUAT_SAC\n");
     break;
