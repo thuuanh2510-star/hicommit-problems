@@ -1,16 +1,16 @@
 #include <stdio.h>
 int main(void)
 {
-  int i=10,s=7;
-  scanf("%d,&n");
-   if(">=10"){// hoc luc
-    printf("xep loai hoc tap1");//xuat sac
-   if("<=9"){
-    printf("xep loai hoc tap2");//gioi
-   if("<=8"){
-    printf("xep loai hoc tap 3");//kha
-   if("<=7"){
-   printf("xep loai hoc tap 4");//khong dat
-  }else{
+  float dtb,drl;
+  scanf("%f%f",&dtb,&drl);
+   if (dtb>=9&&drl>=90){
+    printf("HOC_BONG_XUAT_SAC");//xuat sac
+   }else if(dtb>=8&&drl>=80){
+    printf("HOC_BONG_GIOI");//gioi
+   }else if(dtb>=7&&drl>=70){
+    printf("HOC_BONG_KHA");//kha
+   }else{ 
+    printf("KHONG_DAT");//khong dat
+   }
   return 0;
 }
